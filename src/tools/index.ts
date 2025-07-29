@@ -1,0 +1,1 @@
+export { registerWeatherTool } from './weatherTool.js';
